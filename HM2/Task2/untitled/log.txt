@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-02-16T15:13:13.408586500Z</date>
+  <millis>1676560393408</millis>
+  <nanos>586500</nanos>
+  <sequence>0</sequence>
+  <logger>puzirek</logger>
+  <level>INFO</level>
+  <class>puzirek</class>
+  <method>logger</method>
+  <thread>1</thread>
+  <message>[I@49097b5d</message>
+</record>
+</log>

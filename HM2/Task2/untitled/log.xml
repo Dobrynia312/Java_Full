@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-02-16T15:43:53.350134900Z</date>
+  <millis>1676562233350</millis>
+  <nanos>134900</nanos>
+  <sequence>1</sequence>
+  <logger>puzirek</logger>
+  <level>INFO</level>
+  <class>puzirek</class>
+  <method>sortPuz</method>
+  <thread>1</thread>
+  <message>[23, 18, 5, 2, 1, 42]</message>
+</record>
+<record>
+  <date>2023-02-16T15:43:53.355122Z</date>
+  <millis>1676562233355</millis>
+  <nanos>122000</nanos>
+  <sequence>2</sequence>
+  <logger>puzirek</logger>
+  <level>INFO</level>
+  <class>puzirek</class>
+  <method>sortPuz</method>
+  <thread>1</thread>
+  <message>[18, 5, 2, 1, 23, 42]</message>
+</record>
+<record>
+  <date>2023-02-16T15:43:53.356118100Z</date>
+  <millis>1676562233356</millis>
+  <nanos>118100</nanos>
+  <sequence>3</sequence>
+  <logger>puzirek</logger>
+  <level>INFO</level>
+  <class>puzirek</class>
+  <method>sortPuz</method>
+  <thread>1</thread>
+  <message>[5, 2, 1, 18, 23, 42]</message>
+</record>
+<record>
+  <date>2023-02-16T15:43:53.357116100Z</date>
+  <millis>1676562233357</millis>
+  <nanos>116100</nanos>
+  <sequence>4</sequence>
+  <logger>puzirek</logger>
+  <level>INFO</level>
+  <class>puzirek</class>
+  <method>sortPuz</method>
+  <thread>1</thread>
+  <message>[2, 1, 5, 18, 23, 42]</message>
+</record>
+<record>
+  <date>2023-02-16T15:43:53.358113900Z</date>
+  <millis>1676562233358</millis>
+  <nanos>113900</nanos>
+  <sequence>5</sequence>
+  <logger>puzirek</logger>
+  <level>INFO</level>
+  <class>puzirek</class>
+  <method>sortPuz</method>
+  <thread>1</thread>
+  <message>[1, 2, 5, 18, 23, 42]</message>
+</record>
+<record>
+  <date>2023-02-16T15:43:53.360107800Z</date>
+  <millis>1676562233360</millis>
+  <nanos>107800</nanos>
+  <sequence>6</sequence>
+  <logger>puzirek</logger>
+  <level>INFO</level>
+  <class>puzirek</class>
+  <method>sortPuz</method>
+  <thread>1</thread>
+  <message>[1, 2, 5, 18, 23, 42]</message>
+</record>
+</log>
